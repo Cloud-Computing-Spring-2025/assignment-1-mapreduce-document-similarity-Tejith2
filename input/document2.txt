@@ -1,0 +1,1 @@
+cloud storage is used for big data processing
